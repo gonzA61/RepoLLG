@@ -2,6 +2,7 @@ Pollo
 Pollo al disco
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Pollo al espiedo
 Pollo asado
 Pollo al horno
@@ -9,6 +10,9 @@ Pollo al horno
 Pollo al espiedo
 >>>>>>> parent of 0a19341 (Commit 4)
 Espiedo en pollo
+=======
+Pollo al espiedo
+>>>>>>> parent of 0a19341 (Commit 4)
 =======
 Pollo al espiedo
 >>>>>>> parent of 0a19341 (Commit 4)
